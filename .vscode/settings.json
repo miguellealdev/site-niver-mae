@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 3, // Definir o tamanho da tabulação no editor
+    "editor.insertSpaces": true, // Usar espaços em vez de tabulações
+    "prettier.tabWidth": 3, // Define a largura de tabulação para o Prettier
+    "prettier.useTabs": false, // Define se o Prettier vai usar tabulações (false = usar espaços)
+    "prettier.printWidth": 80, // Define a largura máxima das linhas (opcional)
+    "prettier.semi": true, // Adicionar ponto e vírgula no final (opcional)
+    "prettier.singleQuote": true // Usar aspas simples ao invés de aspas duplas (opcional)
+}
