@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  trailingSlash: true,
+  images: {
+    unoptimized: true, // Isso ajuda a evitar problemas com imagens ao exportar
+  },
 };
 
 export default nextConfig;
