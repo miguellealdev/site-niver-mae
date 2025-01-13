@@ -7,7 +7,7 @@ export default function Home() {
             Olá eu sou Miguel
          </h1>
          <h2 className="p-4">
-            io mae fiz esse site para comemerar o seu niver e coloquei fotos
+            Io mãe fiz esse site para comemerar o seu niver e coloquei fotos
             nossas e muito amor o site e bem simples, te amo muito deus te
             abensoe e te ilumine.
          </h2>
@@ -31,7 +31,7 @@ export default function Home() {
                   alt="Foto eu e mãe no museu"
                />
                <p className="text-black text-center">
-                  comi muito nesse dia, lembra da spritk sem gas{' '}
+                  comi muito nesse dia, lembra da spritk sem gás{' '}
                </p>
             </div>
             <div className="flex flex-col px-1 pt-1 pb-9 bg-white">
@@ -68,7 +68,7 @@ export default function Home() {
                   src="images/mae_ju_estadio.jpg"
                   alt="Foto eu e mãe no museu"
                />
-               <p className="text-black text-center">fui fotografo</p>
+               <p className="text-black text-center">fui fotográfo</p>
             </div>
             <div className="flex flex-col px-1 pt-1 pb-9 bg-white">
                <img
@@ -76,7 +76,7 @@ export default function Home() {
                   src="images/mae_ju_predio.jpg"
                   alt="Foto eu e mãe no museu"
                />
-               <p className="text-black text-center">parabens pra voce</p>
+               <p className="text-black text-center">parabéns pra você</p>
             </div>
             <div className="flex flex-col px-1 pt-1 pb-9 bg-white">
                <img
@@ -85,7 +85,7 @@ export default function Home() {
                   alt="Foto eu e mãe no museu"
                />
                <p className="text-black text-center">
-                  voce e muito maravilhosa
+                  você e muito maravilhosa
                </p>
             </div>
          </div>
