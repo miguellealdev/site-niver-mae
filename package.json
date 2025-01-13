@@ -1,7 +1,7 @@
 {
   "name": "site-niver-mae",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.2.0",
+  "homepage": "https://miguellealdev.github.io/site-niver-mae/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
